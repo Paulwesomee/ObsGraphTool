@@ -6,11 +6,11 @@ A brief instruction of the preparation of Observation Graph Tool .
 
 ## Deployment
 
-To deploy this project, please unzip the file "ObsGraphToolS_2022.zip", a Unix or Linux environment is preferred to successfully compile the tool.
+To deploy this project, please unzip the file "ObsGraphToolS_2022.zip", **a Unix or Linux** environment is preferred to successfully compile the tool.
 
 ### 1. Compiler tools to be installed
 
-In terminal, Install the following tools. In case of using yum, please adapt likewise.
+In terminal, Install the following tools. In case of using **yum**, please adapt likewise.
 
 ```bash
   sudo apt-get install bison
@@ -22,11 +22,11 @@ Those are the two compiler tools needed to determine some explanatory syntax in 
 ### 2. Delete all the .d file in the /obj folder
 
 If it's a newly unzipped source code, this step can be skipped. 
-If it's been run/compiled a few times, please clear the obj folder to avoid errors.
+If it's been run/compiled a few times, please clear the **./obj folder** to avoid errors.
 
 ### 3. Make Buddy Library
 
-In terminal, go to the folder ../buddy22, then clean first. 
+In terminal, go to the folder **./buddy22**, then **clean** first. 
 ```
 make clean
 ```
@@ -34,7 +34,7 @@ After clean is successfully,
 ```
 make
 ```
-Then don't forget to
+Then **Don't forget to
 ``` 
 make install
 ```
