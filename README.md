@@ -115,5 +115,5 @@ Exemple dead et relax sound
 
 ## Support
 
-For support, email Yanwu.zhu@efrei.net .
+For support, email Yanwu.zhu@efrei.net, or post an issue at this repository.
 
