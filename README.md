@@ -82,7 +82,7 @@ make: *** No rule to make target '/Library/Developer/CommandLineTools/usr/bin/..
 Examples used to test the tool can be found in this paper
 
 [Symbolic abstraction and deadlock-freeness verification of inter-enterprise processes
-](https://link.springer.com/chapter/10.1007/978-3-642-03848-8_20)
+](https://www.sciencedirect.com/science/article/pii/S0169023X11000140)
 
 
 ## Test examples/usages
