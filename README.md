@@ -6,7 +6,7 @@ A brief instruction of the preparation of Observation Graph Tool .
 
 ## Deployment
 
-To deploy this project, please unzip the file "ObsGraphToolS_2022.zip", **a Unix or Linux** environment is preferred to successfully compile the tool.
+To deploy this project, please download and unzip the file "ObsGraphToolS.zip" in the repository, **a Unix or Linux** environment is preferred to successfully compile the tool.
 
 ### 1. Compiler tools to be installed
 
